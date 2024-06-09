@@ -1,2 +1,3 @@
-# prompt_engineering_for_devs
-Course material for Pluralsight course delivered June 2024.
+# ChatGPT Prompt Engineering for Developers 
+
+Course material for Pluralsight course delivered by Lara Kattan in June 2024.
